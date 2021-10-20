@@ -1,0 +1,9 @@
+Joe,Haugh,28,700,50000,10000,123,Cherry Street,818,join,0
+Joe,Haugh,28,700,50000,10000,123,Cherry Street,818,deposit,100
+Clive,Richy,32,850,500000,0,456,Richy Street,767,join,10000000
+Clive,Richy,32,850,500000,0,456,Richy Street,767,newloan,150000
+Bad,Guy,19,100,0,0,890,Bad Blvd,515,rob,100,0
+Bad,Guy,19,100,0,0,890,Bad Blvd,515,rob,1000,0
+Clive,Richy,32,850,500000,0,456,Richy Street,767,payloan,150
+Joe,Haugh,28,700,50000,10000,123,Cherry Street,818,withdraw,150
+Bad,Guy,19,100,0,0,890,Bad Blvd,515,join,1000
